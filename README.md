@@ -60,7 +60,7 @@
 
 ### 🤝 Let’s Connect
 
-<a href="mailto:mohamedkhaled7502@example.com">  
+<a href="mailto:mohamedkhaled7502@gmail.com">  
   <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />  
 </a>
 
