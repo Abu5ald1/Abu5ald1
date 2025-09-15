@@ -64,8 +64,5 @@
   <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />  
 </a>
 
-<a href="https://www.linkedin.com/in/mohamed-khaled-1a6002284/" target="_blank">  
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />  
-</a>  
 
 <br clear="left"/>  
