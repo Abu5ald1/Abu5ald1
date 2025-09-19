@@ -14,16 +14,21 @@
 
 ### 🔧 Tech Stack
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-<img align="left" alt="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" /> 
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" /> 
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /> 
-<img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" /> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=spring" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=hibernate" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=maven" width="45" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=postman" width="45" style="margin: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45" style="margin: 20px;" />
+</div>
+
+
+
 <br clear="left"/>
 
 #
