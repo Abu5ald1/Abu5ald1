@@ -35,13 +35,11 @@
 
 ### 🧩 Problem Solving Profiles
 
-<a href="https://leetcode.com/Abu5ald/" target="_blank"> 
-<img align="left" alt="LeetCode" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> 
-</a> 
-<a href="https://www.hackerrank.com/Abu5ald/" target="_blank"> 
-  <img align="left" alt="HackerRank" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" /> 
-</a> 
-<br clear="left"/>
+<div align="center">
+ 
+[<img alt="LeetCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/user/) &nbsp;&nbsp;&nbsp; [<img alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/user/)
+</div>
+
 
 #
 
@@ -55,11 +53,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abu5ald1&show_icons=true&theme=aura" alt="GitHub Stats" height="160"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu5ald1&layout=compact&theme=aura" alt="Top Languages" height="160"/>
-</p>  
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=github_dark" alt="GitHub Stats" height="160"/>
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&layout=compact&theme=github_dark" alt="Top Languages" height="160"/>
+</div>
+
+
+
+
 
 #
 
