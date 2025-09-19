@@ -37,7 +37,7 @@
 
 <div align="center">
  
-[<img alt="LeetCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/user/) &nbsp;&nbsp;&nbsp; [<img alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/user/)
+[<img alt="LeetCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/abu5ald/) &nbsp;&nbsp;&nbsp; [<img alt="HackerRank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/abu5ald/)
 </div>
 
 
@@ -54,9 +54,9 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=github_dark" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abu5ald1&show_icons=true&theme=github_dark" alt="GitHub Stats" height="160"/>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&layout=compact&theme=github_dark" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu5ald1&layout=compact&theme=github_dark" alt="Top Languages" height="160"/>
 </div>
 
 
